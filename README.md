@@ -2,7 +2,7 @@ The answer for all of Nand2Teris projects
 
 Go visit the website for more information -> http://nand2tetris.org/
 
-Project 0: Introduction
+* Project 0: Introduction
 Project 1: Boolean Logic
 Project 2: Boolean Arithmetic
 Project 3: Sequential Logic
