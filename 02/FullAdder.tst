@@ -6,7 +6,7 @@
 load FullAdder.hdl,
 output-file FullAdder.out,
 compare-to FullAdder.cmp,
-output-list a%B3.1.3 b%B3.1.3 c%B3.1.3 sum%B3.1.3 carry%B3.1.3;
+output-list a%B3.1.3 b%B3.1.3 c%B3.1.3 summary%B3.1.3 carrier%B3.1.3;
 
 set a 0,
 set b 0,
