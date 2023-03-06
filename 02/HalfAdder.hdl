@@ -1,0 +1,8 @@
+CHIP HalfAdder {
+    IN first, second;
+    OUT summary, carrier;
+
+    PARTS:
+    Xor(a=first,b=second,out=summary);
+	And(a=first,b=second,out=carrier);
+}
